@@ -98,7 +98,8 @@ EXIT /B 0
     ECHO #   'PYTHON' is an interpreted, high-level, general-purpose           #
     ECHO #    programming language.                                            #
     ECHO #                                                                     #
-    ECHO #    Website https://python-build-standalone.readthedocs.io/en/latest #
+    ECHO #    Website https://gregoryszorc.com/docs/python-build-standalone/   #
+    ECHO #    main/index.html                                                  #
     ECHO #    Repository https://github.com/XNerv/python-build-standalone      #
     ECHO #                                                                     #
     ECHO #    Observation    The repository above is a fork from original      #
@@ -109,7 +110,7 @@ EXIT /B 0
     ECHO #    the system path.                                                 #
     ECHO #                                                                     #
     ECHO # TOOL   : PYTHON                                                     #
-    ECHO # VERSION: 3.8.9                                                      #
+    ECHO # VERSION: 3.10.20                                                    #
     ECHO # ARCH   : x64                                                        #
     ECHO #                                                                     #
     ECHO # USAGE:                                                              #
